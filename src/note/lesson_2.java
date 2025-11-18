@@ -1,3 +1,4 @@
+//セクション３：データ型、変数
 package note;
 
 public class lesson_2 {

@@ -1,3 +1,4 @@
+//コーディング演習６：３つの数値を比較し、大きい数値を表示する
 package exam;
 
 public class exam_6 {

@@ -1,3 +1,4 @@
+//セクション２：準備
 package note;
 
 public class lesson_1 {

@@ -1,3 +1,4 @@
+//コーディング演習５：今日の月を英語表記してみる
 package exam;
 
 import java.util.Calendar;

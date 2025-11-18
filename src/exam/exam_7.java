@@ -1,3 +1,4 @@
+//コーディング演習７：複雑な条件分岐
 package exam;
 
 public class exam_7 {

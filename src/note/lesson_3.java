@@ -1,3 +1,4 @@
+//セクション４条件分岐
 package note;
 
 public class lesson_3 {

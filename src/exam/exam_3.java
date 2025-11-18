@@ -1,3 +1,4 @@
+//コーディング演習３：変数に文字列を入れて表示してみる
 package exam;
 
 public class exam_3 {

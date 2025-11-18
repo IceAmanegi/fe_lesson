@@ -1,3 +1,4 @@
+//コーディング演習９：配列の宣言　初期化あり
 package exam;
 
 public class exam_9 {

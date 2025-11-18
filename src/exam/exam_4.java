@@ -1,3 +1,4 @@
+//コーディング演習４：余りを使った計算をしてみる
 package exam;
 
 public class exam_4 {

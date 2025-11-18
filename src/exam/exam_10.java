@@ -1,3 +1,4 @@
+//コーディング演習１０：２次元配列
 package exam;
 
 public class exam_10 {

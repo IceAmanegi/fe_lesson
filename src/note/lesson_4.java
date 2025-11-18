@@ -1,3 +1,4 @@
+//セクション５：配列
 package note;
 
 public class lesson_4 {

@@ -1,3 +1,4 @@
+//コーディング演習８：整数型配列の宣言　初期化なし
 package exam;
 
 public class exam_8 {

@@ -1,3 +1,4 @@
+//Sセクション６：繰り返し
 package note;
 
 public class lesson_5 {
