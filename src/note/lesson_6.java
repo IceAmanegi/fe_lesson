@@ -1,7 +1,7 @@
 //セクション６：繰り返し
 package note;
 
-public class lesson_6_1 {
+public class lesson_6 {
     public static void main(String[] args) {
 //        for(int num = 1; num <= 10; num += 1){
 //            System.out.println(num);
@@ -21,6 +21,7 @@ public class lesson_6_1 {
             array[right] = array[left];
             array[left] = tmp;
         }
+//        表示処理
         for(int i = 0 ; i <= array.length - 1 ; i ++ ) {
             System.out.println(array[i]);
         }
