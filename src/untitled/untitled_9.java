@@ -1,8 +1,8 @@
 //戻り値
 
-package note;
+package untitled;
 
-public class lesson_9_1 {
+public class untitled_9 {
     public static void main(String[] args) {
        String ret = function("Abc");
        System.out.println(ret);

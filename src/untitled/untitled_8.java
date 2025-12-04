@@ -1,7 +1,7 @@
 //初めての関数
-package note;
+package untitled;
 
-public class lesson_8_1 {
+public class untitled_8 {
     public static void main(String[] args) {
         function("Abc", 2, 3);
         function("def", 2, 4);
