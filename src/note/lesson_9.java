@@ -7,17 +7,21 @@ public class lesson_9 {
         for (int i = 0; i <= A.length - 2; i++) {
             for (int j = A.length - 1; j >= i + 1; j--) {
                 if (A[j] < A[j - 1]) {
-                    int w = A[j];
-                    A[j] = A[j - 1];
-                    A[j - 1] = w;
+                  A = replacement(A, j);
                 }
             }
         }
+
+//        ソートできたかの確認
         confirmation(A);
     }
 
-    public static void replacement(int[] i){
+    public static int[] replacement(int[] A, int j){
+        int w =A[j];
+        A[j] =A[j - 1];
+        A[j - 1] = w;
 
+        return A;
     }
 
 
