@@ -1,5 +1,5 @@
 //コーディング演習４：余りを使った計算をしてみる
-package exam;
+package lesson_1;
 
 public class exam_4 {
     public void calculate(){

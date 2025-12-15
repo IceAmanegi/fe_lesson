@@ -1,7 +1,7 @@
 //セクション５：配列
-package note;
+package lesson_4;
 
-public class lesson_4 {
+public class note_4 {
     public static void main(String[] args) {
         int ret;
         int age = 34;

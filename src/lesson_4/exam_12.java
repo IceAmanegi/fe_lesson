@@ -1,4 +1,4 @@
-package exam;
+package lesson_4;
 
 public class exam_12 {
     public void run(){

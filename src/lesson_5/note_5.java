@@ -1,7 +1,7 @@
 //Sセクション６：繰り返し
-package note;
+package lesson_5;
 
-public class lesson_5 {
+public class note_5 {
     public static void main(String[] args) {
         int value;
         int[] result = new int[]{11, 32, 99};

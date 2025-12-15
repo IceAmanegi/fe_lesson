@@ -1,7 +1,7 @@
 //セクション６：繰り返し
-package note;
+package lesson_6;
 
-public class lesson_6 {
+public class note_6 {
     public static void main(String[] args) {
 //        for(int num = 1; num <= 10; num += 1){
 //            System.out.println(num);

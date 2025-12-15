@@ -1,5 +1,5 @@
 //コーディング演習２：変数に整数を入れて表示してみる
-package exam;
+package lesson_1;
 
 public class exam_2 {
     public void output() {

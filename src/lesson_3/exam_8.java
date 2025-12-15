@@ -1,5 +1,5 @@
 //コーディング演習８：整数型配列の宣言　初期化なし
-package exam;
+package lesson_3;
 
 public class exam_8 {
     public void calculate() {

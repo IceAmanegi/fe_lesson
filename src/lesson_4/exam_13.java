@@ -1,10 +1,10 @@
-//その他の繰り返し
-package note;
+package lesson_4;
 
-public class lesson_8 {
-    public static void main(String[] args) {
-        int[] A = new int[]{9, 10, 0, 2, 87, 1000};
-        for (int i = 0; i <= A.length - 2; i++) {
+public class exam_13 {
+    public void run(){
+        int [] A = new int []{100, 0, 15, 22, 69, 985, 47};
+
+        for (int i = 0 ; i <= A.length -2; i++){
             for (int j = A.length - 1; j >= i + 1; j--) {
                 if (A[j] < A[j - 1]) {
                     int w = A[j];
@@ -14,9 +14,9 @@ public class lesson_8 {
             }
         }
 
-        // ソートできたかを確認
         for (int i = 0; i <= A.length - 1; i++) {
             System.out.println(A[i]);
+
         }
     }
 }

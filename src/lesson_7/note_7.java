@@ -1,7 +1,7 @@
 //その他の繰り返し
-package note;
+package lesson_7;
 
-public class lesson_7 {
+public class note_7 {
     public static void main(String[] args) {
         int n = 11;
 

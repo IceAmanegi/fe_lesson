@@ -1,7 +1,7 @@
 //セクション４条件分岐
-package note;
+package lesson_3;
 
-public class lesson_3 {
+public class note_3 {
     public static void main(String[] args) {
         int num1 = 100;
         int num2 = 3;

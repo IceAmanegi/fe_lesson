@@ -1,5 +1,5 @@
 //コーディング演習９：配列の宣言　初期化あり
-package exam;
+package lesson_3;
 
 public class exam_9 {
     public void result() {

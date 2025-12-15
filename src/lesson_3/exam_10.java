@@ -1,5 +1,5 @@
 //コーディング演習１０：２次元配列
-package exam;
+package lesson_3;
 
 public class exam_10 {
     public void result() {

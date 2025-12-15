@@ -1,7 +1,7 @@
 //セクション２：準備
-package note;
+package lesson_1;
 
-public class lesson_1 {
+public class note_1 {
     public static void main(String[] args) {
         /*
         System.out.println("abcde");
